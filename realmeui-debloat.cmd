@@ -12,7 +12,16 @@ for %%x in (
 com.facebook.appmanager
 com.facebook.services
 com.facebook.system
-com.oppo.usercenter
+com.oppo.usercentercom.android.statementservice
+com.android.stk
+com.android.wallpaperbackup
+com.coloros.video
+com.coloros.pictorial
+com.coloros.oppomultiapp
+com.coloros.activation
+com.coloros.activation.overlay.common
+com.coloros.assistantscreen
+com.coloros.athena
 
 
 
