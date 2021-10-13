@@ -41,6 +41,21 @@ com.nearme.instant.platform
 com.nearme.statistics.rom
 com.nearme.browser
 com.nearme.themestore
+com.coloros.backuprestore
+com.coloros.backuprestore.remoteservice
+com.coloros.bootreg
+com.coloros.childrenspace
+com.coloros.cloud
+com.coloros.compass2
+com.coloros.encryption
+com.coloros.floatassistant
+com.coloros.gamespace
+com.coloros.gallery3d
+com.coloros.healthcheck
+com.coloros.lockassistant
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.phonemanager
 
 com.oppo.ScoreAppMonitor
 com.oppo.aod
