@@ -13,7 +13,13 @@ com.facebook.appmanager
 com.facebook.services
 com.facebook.system
 com.oppo.usercenter
-
+com.ted.number
+com.oppo.quicksearchbox
+com.heytap.habit.analysis
+com.heytap.openid
+com.heytap.browser
+com.mediatek.omacp
+com.mobiletools.systemhelper
 ) do (
 	adb shell pm uninstall --user 0 %%x
 )
