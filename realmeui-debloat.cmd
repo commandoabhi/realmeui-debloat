@@ -72,6 +72,21 @@ com.oppo.webview
 com.oppo.wifirf
 com.oppo.wifisniffer
 
+com.oppoex.afterservice
+com.qualcomm.qti.modemtestmode
+com.qualcomm.qti.remoteSimlockAuth
+com.qualcomm.uimremoteclient
+com.qualcomm.uimremoteserver
+com.realme.logtool
+com.realme.securitycheck
+com.tencent.soter.soterserver
+com.opera.browser
+com.coloros.onekeylockscreen
+com.coloros.gamespaceui
+org.kman.AquaMail
+com.opera.preinstall
+com.facebook.katana
+
 ) do (
 	adb shell pm uninstall --user 0 %%x
 )
