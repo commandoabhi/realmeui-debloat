@@ -8,8 +8,11 @@ echo Starting execution.......
 echo ................  
 echo ...............  
 adb devices
+for %%x in (
 
 
-
+) do (
+	adb shell pm uninstall --user 0 %%x
+)
 echo done
 pause
