@@ -13,6 +13,16 @@ com.facebook.appmanager
 com.facebook.services
 com.facebook.system
 com.oppo.usercenter
+com.android.backupconfirm
+com.android.bluetoothmidiservice
+com.android.bookmarkprovider
+com.android.calllogbackup
+com.android.cellbroadcastreceiver
+com.android.cellbroadcastreceiver.overlay.common
+com.android.email.partnerprovider
+com.android.managedprovisioning
+com.android.providers.partnerbookmarks
+com.android.sharedstoragebackup
 
 ) do (
 	adb shell pm uninstall --user 0 %%x
