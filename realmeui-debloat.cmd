@@ -42,6 +42,36 @@ com.nearme.statistics.rom
 com.nearme.browser
 com.nearme.themestore
 
+com.oppo.ScoreAppMonitor
+com.oppo.aod
+com.oppo.atlas
+com.oppo.bttestmode
+com.oppo.criticallog
+com.oppo.decrypt
+com.oppo.engineermode
+com.oppo.engineermode.camera
+com.oppo.engineermode.network
+com.oppo.fingerprints.finterprintsensortest
+com.oppo.logkit
+com.oppo.logkitservice
+com.oppo.mimosiso
+com.oppo.music
+com.oppo.nw
+com.oppo.market
+com.oppo.operationManual
+com.oppo.oppopowermonitor
+com.oppo.ovoicemanager
+com.oppo.partnerbrowsercustomizations
+com.oppo.qualityprotect
+com.oppo.quicksearchbox
+com.oppo.rftoolkit
+com.oppo.sos
+com.oppo.startlogkit
+com.oppo.usageDump
+com.oppo.webview
+com.oppo.wifirf
+com.oppo.wifisniffer
+
 ) do (
 	adb shell pm uninstall --user 0 %%x
 )
