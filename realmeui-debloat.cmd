@@ -9,7 +9,10 @@ echo ................
 echo ...............  
 adb devices
 for %%x in (
-
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.oppo.usercenter
 
 ) do (
 	adb shell pm uninstall --user 0 %%x
