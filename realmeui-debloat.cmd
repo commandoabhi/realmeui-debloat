@@ -16,7 +16,7 @@ com.oppo.usercenter
 
 
 
-=======
+
 com.ted.number
 com.oppo.quicksearchbox
 com.heytap.habit.analysis
@@ -35,6 +35,13 @@ com.android.email.partnerprovider
 com.android.managedprovisioning
 com.android.providers.partnerbookmarks
 com.android.sharedstoragebackup
+
+com.nearme.atlas
+com.nearme.instant.platform
+com.nearme.statistics.rom
+com.nearme.browser
+com.nearme.themestore
+
 ) do (
 	adb shell pm uninstall --user 0 %%x
 )
