@@ -44,7 +44,6 @@ com.android.email.partnerprovider
 com.android.managedprovisioning
 com.android.providers.partnerbookmarks
 com.android.sharedstoragebackup
-
 com.nearme.atlas
 com.nearme.instant.platform
 com.nearme.statistics.rom
@@ -104,7 +103,11 @@ com.oppo.usageDump
 com.oppo.webview
 com.oppo.wifirf
 com.oppo.wifisniffer
-
+com.coloros.wallet
+com.coloros.weather.service
+com.coloros.weather2
+com.coloros.widget.smallweather
+com.coloros.wifibackuprestore
 com.oppoex.afterservice
 com.qualcomm.qti.modemtestmode
 com.qualcomm.qti.remoteSimlockAuth
