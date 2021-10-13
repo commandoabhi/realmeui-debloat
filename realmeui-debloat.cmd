@@ -65,7 +65,16 @@ com.coloros.lockassistant
 com.coloros.ocrscanner
 com.coloros.ocrservice
 com.coloros.phonemanager
-
+com.coloros.phonenoareainquire
+com.coloros.resmonitor
+com.coloros.sceneservice
+com.coloros.securepay
+com.coloros.securitykeyboard
+com.coloros.smartdrive
+com.coloros.soundrecorder
+com.coloros.speechassist
+com.coloros.translate.engine
+com.coloros.video
 com.oppo.ScoreAppMonitor
 com.oppo.aod
 com.oppo.atlas
